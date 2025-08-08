@@ -1,0 +1,5 @@
+streamlit==1.48.0
+polars
+pandas
+openpyxl
+pyarrow
